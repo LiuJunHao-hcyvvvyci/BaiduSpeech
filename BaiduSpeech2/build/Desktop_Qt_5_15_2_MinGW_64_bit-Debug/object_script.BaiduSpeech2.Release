@@ -1,0 +1,11 @@
+release/audio.o
+release/http.o
+release/main.o
+release/speech.o
+release/sqlite.o
+release/widget.o
+release/moc_audio.o
+release/moc_http.o
+release/moc_speech.o
+release/moc_sqlite.o
+release/moc_widget.o

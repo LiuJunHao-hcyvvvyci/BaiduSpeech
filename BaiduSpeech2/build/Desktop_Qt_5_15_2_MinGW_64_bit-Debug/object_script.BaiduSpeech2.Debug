@@ -1,0 +1,11 @@
+debug/audio.o
+debug/http.o
+debug/main.o
+debug/speech.o
+debug/sqlite.o
+debug/widget.o
+debug/moc_audio.o
+debug/moc_http.o
+debug/moc_speech.o
+debug/moc_sqlite.o
+debug/moc_widget.o
